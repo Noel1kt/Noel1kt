@@ -31,10 +31,4 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 <br/>
 
-## My stats:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noel1kt&show_icons=true&theme=highcontrast)
-  
-<br/>
-
 
